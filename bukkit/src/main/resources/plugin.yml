@@ -1,0 +1,11 @@
+name: BungeeTeleport
+version: '1.0.0'
+main: net.okocraft.bungeeteleport.bukkit.Main
+author: LazyGon
+api-version: 1.19
+softdepend:
+  - ProtocolLib
+
+commands:
+  tsend:
+    description: send test message to other server.

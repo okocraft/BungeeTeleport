@@ -1,0 +1,4 @@
+name: BungeeTeleport
+version: '1.0.0'
+main: net.okocraft.bungeeteleport.bungeecord.Main
+author: LazyGon

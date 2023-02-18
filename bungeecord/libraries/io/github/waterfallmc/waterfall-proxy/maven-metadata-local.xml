@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.github.waterfallmc</groupId>
+  <artifactId>waterfall-proxy</artifactId>
+  <versioning>
+    <versions>
+      <version>1.19-R0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230214075550</lastUpdated>
+  </versioning>
+</metadata>
